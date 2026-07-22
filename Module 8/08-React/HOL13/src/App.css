@@ -1,0 +1,19 @@
+.container{
+
+display:flex;
+
+justify-content:space-around;
+
+margin-top:40px;
+
+}
+
+.box{
+
+width:300px;
+
+padding:20px;
+
+border-right:4px solid green;
+
+}
